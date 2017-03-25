@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MortgageCalculator</string>
+    <string name="amt_borrowed">Amount To Borrow:</string>
+    <string name="amt_borrowed_hint">0.00</string>
+    <string name="loan_term">Loan Term:</string>
+    <string name="interest_rate">Interest Rate:</string>
+    <string name="tax_insurance_chk_box">Apply Tax and Insurance:</string>
+    <string name="calculate">Calculate</string>
+    <string name="radio_button_15">15</string>
+    <string name="radio_button_20">20</string>
+    <string name="radio_button_30">30</string>
+</resources>
